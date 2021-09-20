@@ -1,0 +1,3 @@
+/home/drizzt/CLionProjects/c_plusplus/0b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/drizzt/CLionProjects/c_plusplus/0b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/drizzt/CLionProjects/c_plusplus/0b/cmake-build-debug/CMakeFiles/0b.dir
