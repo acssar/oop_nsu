@@ -6,9 +6,7 @@
 #define TASK2_HASHTABLE_H
 
 
-class hashtable {
 
-};
 
 
 #endif //TASK2_HASHTABLE_H

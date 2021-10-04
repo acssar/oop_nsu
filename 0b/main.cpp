@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
     auto it = result_table.begin();
 
     for (; it != result_table.end(); it++)
-        outf << it->second << "," << it->first << "," << double(it->first) / cnt << "\n";
+        outf << it->second << "," << it->first << "," << (double(it->first) / cnt)*100 << "\n";
 
     return 0;
 }
