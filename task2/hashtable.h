@@ -2,6 +2,7 @@
 // Created by roman on 27/09/21.
 //
 
+//guards/only includes once (pragma once)
 #ifndef TASK2_HASHTABLE_H
 #define TASK2_HASHTABLE_H
 

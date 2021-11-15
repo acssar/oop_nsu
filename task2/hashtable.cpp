@@ -1,31 +1,7 @@
-//
-// Created by roman on 10/11/21.
-//
-
-
 #include "hashtable.h"
 
 
    using namespace std;
-//
-//    unsigned long hash_function(std::string str) {
-//        unsigned long i = 0;
-//        for (int j = 0; str[j]; j++)
-//            i += str[j  ];
-//        return i % CAPACITY;
-//    }
-//unsigned int _hf(const Key& k, unsigned int sz) {
-//    std::hash<Key> g;
-//    return g(k) % sz;
-//}
-//Student* create_student(Key k, Value v){
-//        //creates a pointer to a new hash table item
-//        auto* item = (Student*) malloc (sizeof(Student));
-//        item= k;
-//        item->
-//    }
-
-
 
 
 unsigned int hash_f(const Key& s, unsigned int table_size){
@@ -77,7 +53,7 @@ HashTable& HashTable::operator=(const HashTable& b) {
     return *this;
 }
 
-
+//noexcept - гарантия безопасной работы
 HashTable& HashTable::operator=(HashTable&& b) noexcept {
     if (this == &b) {
         return *this;
