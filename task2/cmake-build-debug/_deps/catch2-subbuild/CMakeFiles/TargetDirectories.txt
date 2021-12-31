@@ -1,3 +1,0 @@
-/home/roman/CLionProjects/сplusplus/task2/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir
-/home/roman/CLionProjects/сplusplus/task2/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
-/home/roman/CLionProjects/сplusplus/task2/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
