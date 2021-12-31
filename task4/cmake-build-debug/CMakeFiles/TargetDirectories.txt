@@ -1,0 +1,3 @@
+/home/roman/nsu-oop-cpp/Bulls and Cows/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/roman/nsu-oop-cpp/Bulls and Cows/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/roman/nsu-oop-cpp/Bulls and Cows/cmake-build-debug/CMakeFiles/Bulls_and_Cows.dir
